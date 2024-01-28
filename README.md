@@ -1,4 +1,4 @@
-# File Sorter
+# Organize Hub
 
 This Python script sorts files based on their extensions. It uses a configuration file to determine where to move files of each type.
 
@@ -26,7 +26,7 @@ cd src
 3. Run the script with Python 3, passing the path to the file you want to sort as an argument:
 
 ```python
-python3 sorter.py <file-path>
+python main.py
 ```
 
 4. If you'd like to schedule it
